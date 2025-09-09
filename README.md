@@ -1,7 +1,10 @@
 # Hi there, I'm Luís 👋
 
-💻 Passionate Developer.  
-🚀 Always exploring new technologies and building creative projects.  
+💻 Just an apprentice in the way of the clean code, still learning the Force of programming.
+🚀 Loved technology since childhood — always dreamed of building fun and cool stuff but never challenged myself… until now.
+✨ On a journey where bugs are just wild encounters, and every line of code is a step closer to evolving.
+🎮 Constantly grinding XP to level up as a developer, because I will never stop trying to be the very best, like no one ever was.
+🌌 May my curiosity be with me, always.
 
 ---
 
@@ -19,7 +22,7 @@
   Responsive landing page built with **HTML + CSS**(**WIP**).
   
 - [**Currency Converter**](https://luishkgr.github.io/Conversor-de-Moedas/)
-  Responsive landing page built with **HTML + CSS**(**WIP**).  
+  A simple currency converter, an webpage built with **HTML + CSS**(**WIP**).  
 
 ---
 
