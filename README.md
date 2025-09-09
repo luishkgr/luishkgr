@@ -1,9 +1,9 @@
 # Hi there, I'm Luís 👋
 
-💻 Just an apprentice in the way of the clean code, still learning the Force of programming.
-🚀 Loved technology since childhood — always dreamed of building fun and cool stuff but never challenged myself… until now.
-✨ On a journey where bugs are just wild encounters, and every line of code is a step closer to evolving.
-🎮 Constantly grinding XP to level up as a developer, because I will never stop trying to be the very best, like no one ever was.
+💻 Just an apprentice in the way of the clean code, still learning the Force of programming.  
+🚀 Loved technology since childhood — always dreamed of building fun and cool stuff but never challenged myself… until now.  
+✨ On a journey where bugs are just wild encounters, and every line of code is a step closer to evolving.  
+🎮 Constantly grinding XP to level up as a developer, because I will never stop trying to be the very best, like no one ever was.  
 🌌 May my curiosity be with me, always.
 
 ---
@@ -21,7 +21,7 @@
 - [**We Ride - Wide Coverage Location**](https://luishkgr.github.io/We-Ride/)  
   Responsive landing page built with **HTML + CSS**(**WIP**).
   
-- [**Currency Converter**](https://luishkgr.github.io/Conversor-de-Moedas/)
+- [**Currency Converter**](https://luishkgr.github.io/Conversor-de-Moedas/)  
   A simple currency converter, an webpage built with **HTML + CSS**(**WIP**).  
 
 ---
