@@ -16,7 +16,10 @@
 
 ## 📌 Featured Projects
 - [**We Ride - Wide Coverage Location**](https://luishkgr.github.io/We-Ride/)  
-  Responsive landing page built with **HTML + CSS**.  
+  Responsive landing page built with **HTML + CSS**(**WIP**).
+  
+- [**Currency Converter**](https://luishkgr.github.io/Conversor-de-Moedas/)
+  Responsive landing page built with **HTML + CSS**(**WIP**).  
 
 ---
 
